@@ -1,3 +1,3 @@
 # Collaboration_Practice
 
-The quick
+The quick brown fox
